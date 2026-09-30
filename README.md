@@ -1,12 +1,16 @@
 # Dark Office
 
-Minimal GitHub Pages website for Dark Office.
+Clean GitHub Pages website for Dark Office.
 
-## Upload
-Upload the contents of this folder to the root of the `Dark-Office` repository. `index.html` must be in the repository root.
-
-## GitHub Pages
-Settings → Pages → Deploy from a branch → `main` → `/ (root)` → Save.
+## Scheduling
+The only scheduling CTA is in the Contact section and opens the Dark Office Google Calendar booking page:
+https://calendar.app.google/bM8HeDe8FBFKbAWE7
 
 ## Contact
-The form is configured for `Ops.darkoffice@gmail.com` through FormSubmit.
+Website contact form sends to Ops.darkoffice@gmail.com.
+
+## Logo
+The Dark Office logo is displayed with `object-fit: contain` so the complete logo is visible without cropping.
+
+## GitHub Pages
+Upload the contents to the repository root. Then use Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
